@@ -1,0 +1,80 @@
+.drawer-box{
+    margin-left: 1%;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    background-color: #fff;
+   
+    font-size: 15px;
+    font-weight: 800;
+    .sec-1 {
+      li{
+        text-decoration: none;
+        list-style: none;
+        line-height: 35px;
+        color: #000;
+      }
+      a{
+      //  background-color: darkolivegreen;
+        float: right;
+        margin-right: 3%;
+        font-size: large;
+        color: #666;
+      }
+      border-bottom: 1px solid #e1e1e1;
+
+    }
+   
+    .sec-2 {
+        
+        
+        li{
+           text-decoration: none;
+           list-style: none;
+           line-height: 35px;
+           color: #000;
+        } 
+        a{
+          float: right;
+          margin-right: 3%;
+          font-size: large;
+          color: #666;
+        }
+        border-bottom: 1px solid #e1e1e1;
+    }
+    
+
+    .sec-3{
+       li{
+        text-decoration: none;
+        list-style: none;
+        line-height: 35px;
+        color: #000;
+       }
+       a{
+        float: right;
+        margin-right: 3%;
+        font-size: large;
+        color: #666;
+       }
+    }
+  
+  
+}
+
+.out-drawer {
+ // display: inline-block;
+   display:inline-flex ;
+  float: left;
+  line-height: 25px;
+  //background-color: crimson;
+.drawer-icon{
+ padding: 6px 6px 6px;
+ line-height: 25px;
+// background-color: darkcyan;
+}
+
+.search_icon {
+  padding: 6px 6px 6px;
+  
+}
+}
+ 
