@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nynews/static/css/main.141cdb75.css",
+    "main.js": "/nynews/static/js/main.90245ee5.js",
+    "static/js/787.e922b2d6.chunk.js": "/nynews/static/js/787.e922b2d6.chunk.js",
+    "index.html": "/nynews/index.html",
+    "main.141cdb75.css.map": "/nynews/static/css/main.141cdb75.css.map",
+    "main.90245ee5.js.map": "/nynews/static/js/main.90245ee5.js.map",
+    "787.e922b2d6.chunk.js.map": "/nynews/static/js/787.e922b2d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.141cdb75.css",
+    "static/js/main.90245ee5.js"
+  ]
+}
