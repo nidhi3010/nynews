@@ -1,0 +1,27 @@
+.current-date{
+   // background-color: blue;
+    span{
+        color: #121212;
+        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        font-weight: 700;
+        float: left;
+        margin-top: 15px;
+    }
+    
+}
+@media (max-width: 1024px)
+{
+    .current-date{
+     //display: none;
+     font-size: 12px;
+     width: auto;
+     margin-bottom: 5px;
+    }
+}
+@media (min-width: 740px)
+{
+    .current-date{
+        text-align: center;
+
+    }
+}
