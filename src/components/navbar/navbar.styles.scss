@@ -1,6 +1,8 @@
 .navbar{
-   margin-left: 5%;
-   margin-right: 5%;
+   margin-left: 15%;
+   margin-right: 15%;
+   
+
     .button-bar{
         line-height: 25px;
         ul{
@@ -81,11 +83,10 @@
             color: #121212;
             text-decoration: none;
              transition: 0.3s ease-in-out; 
-             margin-top: 2%;
+             margin-top: 2.5%;
             float: left;
-            margin-left: -9.3%;
-            
-            
+            margin-left: -13%;
+           
              
                     
                    &:hover {
@@ -115,6 +116,7 @@
           //   display: inline-block;
              float: right;
              margin-right: 3%;
+            
         .sun-icon {
             width: 18px;
              height: 18px;
@@ -152,27 +154,27 @@
     }
 
 
-     @media (max-width: 1024px)
- {
-    ul{
-       display: none;
-    }
-    .title{
-        width: 430px;
-    height: 58px;
-    margin: 6px auto;
-    }
-    .sun-temp{
-        display: none;
-    }
-    .today-paper {
-      display: none;
-    }
+//      @media (max-width: 1024px)
+//  {
+//     ul{
+//        display: none;
+//     }
+//     .title{
+//         width: 430px;
+//     height: 58px;
+//     margin: 6px auto;
+//     }
+//     .sun-temp{
+//         display: none;
+//     }
+//     .today-paper {
+//       display: none;
+//     }
     
- }
+//  }
 
- @media (min-width: 740px){
-     .title{
+//  @media (min-width: 740px){
+//      .title{
          
-     }
- }
+//      }
+//  }

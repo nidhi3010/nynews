@@ -1,0 +1,60 @@
+.page-content {
+    ul{
+        list-style-type: none;
+        
+        li{
+            display: inline-block;
+           
+           
+            a{
+                text-decoration: none;
+                font-family: nyt-franklin,helvetica,arial,sans-serif;
+                font-size: 0.8125rem;
+                font-weight: 700;
+                color: #121212;
+                border-radius: 3px;
+                transition: 0.3s ease-in-out; 
+                    
+                   &:hover {
+                    cursor: pointer;
+                    color: #666;
+
+    
+                    & a{
+                     opacity: 1;
+                     transform: scale(1.2);
+                     transition: 0.3s ease-in-out; 
+                     
+                     
+                 }
+                }
+            }
+            span{
+                margin-right: 20px;
+                font-family: nyt-franklin,helvetica,arial,sans-serif;
+                font-size: 0.6875rem;
+                font-weight: 800;
+                color: #d0021b;
+                letter-spacing: 1px;
+                white-space: pre;
+                transition: 0.3s ease-in-out; 
+                    
+                   &:hover {
+                    cursor: pointer;
+                    color: #666;
+
+    
+                    & span{
+                     opacity: 1;
+                     transform: scale(1.2);
+                     transition: 0.3s ease-in-out; 
+                     
+                     
+                 }
+                }
+            }
+        }
+    }
+
+    }
+
